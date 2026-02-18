@@ -17,7 +17,7 @@ This repository contains the core machine learning and simulation pipelines for 
 * **Performance Leap:** Demonstrated that ML-based routing improves the success ratio by 24% compared to conventional GGR, particularly in highly sparse networks.
 * **Scalability & Efficiency:** Achieved these performance gains while maintaining low computational complexity, proving that ML models can enable robust, scalable, and efficient routing strategies for future aeronautical communication systems.
 
-![Success Ratio Comparison showing ML outperforming GGR](success_ratio.png)
+![Success Ratio Comparison showing ML outperforming GGR](success_ratio.pdf)
 
 ---
 
